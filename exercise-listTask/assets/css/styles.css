@@ -1,0 +1,12 @@
+body{
+    background: rgb(20, 192, 163);
+}
+
+.container{
+    max-width: 640px;
+    margin: 50px auto;
+    background: #ffff;
+    padding: 25px;
+    font-family: 'Open Sans', sans-serif;  
+    border-radius: 15px;
+}
